@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **php**
 
-- 📫 How to reach me **ahmedchouihi@gmail.com**
+- 📫 How to reach me **contact@ahmedchouihi.com**
 
 - 📄 Know about my experiences [www.ahmedchouihi.com](www.ahmedchouihi.com)
 
