@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@ahmedchouihi.com**
 
-- 📄 Know about my experiences [https://ahmedchouihi.com](www.ahmedchouihi.com)
+- 📄 Know about my experiences <a href="https://ahmedchouihi.com/" target="_blank">My Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
