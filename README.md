@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Chouihi</h1>
-<h3 align="center">php Wordpress & Laravel Developer</h3>
-<h4 align="center">Developing Custom Wordpress Themes Currently </h4>
+<h3 align="center">Full Stack Web Developer</h3>
+<h4 align="center">Enjoying coding currently </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedch1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedch1" /> </p>
 
